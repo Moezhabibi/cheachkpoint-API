@@ -1,0 +1,40 @@
+.titre1{
+  color: rgb(184, 197, 215);
+  display: flex;
+  justify-content: space-around;
+  font-weight:bold
+}
+
+.titre2{
+  color: rgb(238, 84, 195);
+  display: flex;
+  justify-content: space-around;
+  font-weight:bold
+}
+
+
+.titre3{
+  color: red;
+  display: flex;
+  justify-content: center;
+}
+
+.titre4{
+  color: rgb(12, 33, 218);
+  display: flex;
+  justify-content: center;
+  font-family:verdana;
+  font-weight:bold
+}
+
+.all{
+  color: blueviolet;
+  font-weight:bold;
+  
+}
+
+.Wint{
+    border-style: double;
+    border-color: #5600ff6b;
+
+}
